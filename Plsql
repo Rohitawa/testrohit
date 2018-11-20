@@ -1,1 +1,3 @@
-procedure.function
+Select *from tab.
+select emp_name , dept where emp_id=005
+
